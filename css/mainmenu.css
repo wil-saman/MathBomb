@@ -1,0 +1,132 @@
+
+.title {
+    font-family: 'Open Sans';
+    text-align: center;
+    color: #836DA7;
+    margin-bottom: 50px;
+}
+
+.playButton {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sans';
+    color: #836DA7;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.scoreButton {
+    width: 30%;
+    height: 200px;
+    margin: 10%;
+}
+
+.infoButton {
+    width: 30%;
+    height: 200px;
+    margin: 10%;
+}
+
+.img111{
+    width: 80%;
+    height: 80%;
+
+}
+
+@media only screen and (max-width: 600px) {
+    
+.scoreButton {
+   
+    height: 150px;
+   
+}
+
+.infoButton {
+   
+    height: 150px;
+   
+}
+  }
+
+.level1 {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sans';
+    color: #836DA7;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.level2 {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sans';
+    color: #836DA7;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.level3 {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sans';
+    color: #836DA7;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.level4 {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sans';
+    color: #836DA7;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.level5 {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sans';
+    color: #836DA7;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.menuButton {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sans';
+    color: #836DA7;
+    font-size: 22px;
+    font-weight: bold; 
+}
+
+.replayButton {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sans';
+    color: #836DA7;
+    font-size: 22px;
+    font-weight: bold; 
+}
+
+.howToPlay {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sansl';
+    color: #836DA7;
+    font-size: 22px;
+    /* font-weight: bold; */
+    text-align: center;
+}
+
+.creator {
+    width: 100%;
+    height: 50px;
+    font-family: 'Open Sansl';
+    color: #836DA7;
+    font-size: 22px;
+    /* font-weight: bold; */
+    text-align: center;
+}

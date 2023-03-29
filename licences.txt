@@ -1,0 +1,7 @@
+OpenSans : https://www.fontsquirrel.com/fonts/open-sans
+OpenSans-Light: https://www.fontsquirrel.com/fonts/open-sans
+PTSans-Regular: https://www.fontsquirrel.com/fonts/pt-sans
+Quicksand-Regular: https://www.fontsquirrel.com/fonts/quicksand
+info logo: https://fontawesome.com/icons/info?style=solid
+scoreboard logo: https://fontawesome.com/icons/star?style=solid
+background: https://uigradients.com/#Moonrise

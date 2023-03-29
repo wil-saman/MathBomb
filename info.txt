@@ -1,0 +1,4 @@
+color : 42276E
+
+
+we need to have animation on the main menu
