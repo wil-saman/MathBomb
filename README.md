@@ -58,3 +58,7 @@ https://tecadmin.net/remove-last-character-from-string-in-javascript/
 
 2019/09/28
 - finishing and final check.
+
+# Video Presentation
+
+https://youtu.be/hInT9DXu_1o
